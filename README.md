@@ -1,4 +1,4 @@
-# DigitalOcean Full-Stack Lab
+# DigitalOcean Full-Stack La
 
 Готовый шаблон для лабораторной работы:
 - Frontend: React + Vite
