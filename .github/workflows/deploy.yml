@@ -16,6 +16,6 @@ jobs:
           username: root
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /root/your-project
+            cd /root/digitalocean-fullstack-project
             git pull origin main
             docker compose up -d --build
